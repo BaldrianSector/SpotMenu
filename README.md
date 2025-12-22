@@ -87,7 +87,7 @@ Customize the player overlay:
 ### Menu Bar
 
 Configure display options:
-- Show/hide artist and song title
+- Show/hide artist and title
 - Show playing icon, liked icon, app icon
 - Compact view mode
 - Max width (40–300pt)
